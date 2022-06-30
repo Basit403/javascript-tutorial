@@ -11,3 +11,16 @@ lesson 2
 -learn about javascripts variables
 -learn about javascripts basic mathematicals operators
 -learn about maths operators shorthand
+
+lesoon 3
+-learn logging to the console
+-learn booleans in javascripts
+-learn about if statement
+-learn about else if statement
+-learn about comparison operators
+
+lesson 4
+-learn logical operators
+-learn while loops
+-learn for loops
+-learn break and continue
