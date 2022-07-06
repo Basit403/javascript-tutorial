@@ -24,3 +24,10 @@ lesson 4
 -learn while loops
 -learn for loops
 -learn break and continue
+
+lesson 5
+-learn practical example using loops
+-learn function
+-learn numbers
+-learn variable scope
+-learn strings
