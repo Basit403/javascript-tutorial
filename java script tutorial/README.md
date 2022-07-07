@@ -31,3 +31,8 @@ lesson 5
 -learn numbers
 -learn variable scope
 -learn strings
+
+lesson 6
+-learn slice and split strings
+-learn arrays
+-introductin to objects
