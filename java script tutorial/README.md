@@ -29,7 +29,7 @@ lesson 5
 -learn practical example using loops
 -learn function
 -learn numbers
--learn variable scope
+21-learn variable scope
 -learn strings
 
 lesson 6
