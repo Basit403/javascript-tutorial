@@ -26,3 +26,9 @@ if (myage > 30){
     document.write("you are not over 10");
 
 }
+
+<h1>For loops code</h1>
+
+var links = document.getElementsByTagName("a");
+
+
