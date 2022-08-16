@@ -36,3 +36,6 @@ lesson 6
 -learn slice and split strings
 -learn arrays
 -introductin to objects
+
+lesson 7
+learn about break and continue

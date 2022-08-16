@@ -40,3 +40,10 @@ for (i = 1; i <= links.length; i++) {
 document.write("all links are looped");
 
 
+var links = document.getElementsByTagName("a");
+
+for (link = 1; link <= links.length; link++) {
+
+    console.log("This is link number" + link);
+
+}
