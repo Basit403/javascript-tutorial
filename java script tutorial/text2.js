@@ -47,3 +47,14 @@ for (link = 1; link <= links.length; link++) {
     console.log("This is link number" + link);
 
 }
+
+
+
+function getaverage (a,b){
+
+    var average = (a + b) / 2;
+    console.log(average);
+
+}
+
+getaverage(7,8)
