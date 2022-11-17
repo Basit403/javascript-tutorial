@@ -39,3 +39,24 @@ lesson 6
 
 lesson 7
 learn about break and continue
+
+
+
+
+
+
+
+
+javascript tutorial
+
+lesson 1
+learn javascript alert
+where to put my javascript
+Basic javascript rules
+javascript variables 
+
+lesson 2
+learn basic operators
+maths operatos
+booleans in javascript
+learn about github
