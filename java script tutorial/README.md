@@ -60,3 +60,10 @@ learn basic operators
 maths operatos
 booleans in javascript
 learn about github
+
+lesson 3
+learn about loops
+break and continue
+functions
+variable scope
+numbers
