@@ -58,3 +58,28 @@ function getaverage (a,b){
 }
 
 getaverage(7,8)
+
+{
+   var a = 7;
+   var b = 5;
+
+   console.log(a + b);
+   console.log(typeof (a + b) );
+}
+
+
+string
+{
+    var mystring = 'I\'m a "fun" string':
+
+    console.log(mystring.length);
+}
+
+{
+    var string1 = "abc";
+    var string2 = "ABC";
+
+    console.log(string1 === string2)
+}
+
+
