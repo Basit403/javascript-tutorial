@@ -67,3 +67,11 @@ break and continue
 functions
 variable scope
 numbers
+
+lesson 4
+javascript nan
+slice and split
+strings
+arrays
+introduction to object
+creating javascript object
