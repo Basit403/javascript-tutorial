@@ -55,7 +55,7 @@ function getaverage (a,b){
     var average = (a + b) / 2;
     console.log(average);
 
-}
+};
 
 getaverage(7,8)
 
@@ -65,7 +65,7 @@ getaverage(7,8)
 
    console.log(a + b);
    console.log(typeof (a + b) );
-}
+};
 
 
 string
@@ -73,13 +73,51 @@ string
     var mystring = 'I\'m a "fun" string':
 
     console.log(mystring.length);
-}
+};
 
 {
     var string1 = "abc";
     var string2 = "ABC";
 
     console.log(string1 === string2)
+};
+
+objects
+{
+    var myArray = new Array();
+    myArray[0] = 8;
+    myArray[1] = "hello";
+
+
+    var myCar = new Object();
+    myCar.maxspeed = 50;
+    myCar.driver = "shaun";
+    myCar.drive = function(){ console.log("now driving");};
+};
+
+This keyword
+var mycar2 = {
+
+    maxspeed:70,
+    driver: "net ninja",
+    drive: function(speed, time){
+     console.log(speed, time);
+    },
+
+    test: function(){
+        console.log(this);
+
+    }
+
+};
+
+{
+    var birthday = new Date(1985, 0, 15, 11, 15, 25);
+
+    console.log(birthday.getMonth());
+    console.log(birthday.getFullYear());
+    console.log(birthday.getDate());
+    console.log(birthday.getDay());
+    console.log(birthday.getHours());
+    console.log(birthday.getTime());
 }
-
-

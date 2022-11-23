@@ -75,3 +75,8 @@ strings
 arrays
 introduction to object
 creating javascript object
+
+lesson 5
+this keyword
+constrution functions
+date object
