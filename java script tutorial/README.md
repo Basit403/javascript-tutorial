@@ -80,3 +80,11 @@ lesson 5
 this keyword
 constrution functions
 date object
+
+lesson 6
+what is DOM in javascript
+Traversing the DOM
+changing page content
+changing element attributes
+changing CSS styles
+adding element to DOM
