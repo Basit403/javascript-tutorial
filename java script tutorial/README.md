@@ -88,3 +88,7 @@ changing page content
 changing element attributes
 changing CSS styles
 adding element to DOM
+
+lesson 7
+the onclick event
+the windows onload event
